@@ -1,6 +1,6 @@
 # Mental Health Web App README
 
-## DEMO LINK 
+## DEMO VIDEO LINK
 [https://drive.google.com/file/d/1S-k24QQeR0rFMi1dGqxEUcs8uMUVrmMT/view?usp=drive_link]
 
 ## Project Overview
